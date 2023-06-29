@@ -5,5 +5,11 @@
     <file url="file://$PROJECT_DIR$/TestChannelzAPI/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/TestGuiAPI/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/TestGuiAPI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestLangAPI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestLangAPI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestOauthAPI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestOauthAPI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestWebhookAPI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestWebhookAPI/src/main/resources" charset="UTF-8" />
   </component>
 </project>

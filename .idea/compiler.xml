@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="TestGuiAPI" />
         <module name="TestChannelzAPI" />
+        <module name="TestLangAPI" />
+        <module name="TestWebhookAPI" />
+        <module name="TestGuiAPI" />
+        <module name="TestOauthAPI" />
       </profile>
     </annotationProcessing>
   </component>

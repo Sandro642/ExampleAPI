@@ -11,6 +11,9 @@
       <list>
         <option value="$PROJECT_DIR$/TestGuiAPI/pom.xml" />
         <option value="$PROJECT_DIR$/TestChannelzAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/TestWebhookAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/TestLangAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/TestOauthAPI/pom.xml" />
       </list>
     </option>
   </component>

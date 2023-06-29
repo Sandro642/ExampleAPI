@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/ExampleAPI.iml" filepath="$PROJECT_DIR$/.idea/ExampleAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestChannelzAPI.iml" filepath="$PROJECT_DIR$/TestChannelzAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestGuiAPI.iml" filepath="$PROJECT_DIR$/TestGuiAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLangAPI.iml" filepath="$PROJECT_DIR$/TestLangAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestWebhookAPI.iml" filepath="$PROJECT_DIR$/TestWebhookAPI.iml" />
     </modules>
   </component>
 </project>
