@@ -23,5 +23,35 @@ public class Main extends JavaPlugin {
         }
 
         OauthAPI.getOauth().oauthGui(player);
+
+        /**
+         * @Todo first example
+         */
+        OauthAPI.getOauth().callMethod(sout());
+
+        /**
+         * @Todo second example
+         */
+        OauthAPI.getOauth().callMethod(allResources());
+    }
+
+    public void sout() {
+        System.out.println("Test method");
+    }
+
+    // Second example
+
+    public void allResources() {
+        firstResources();
+        secondResources();
+    }
+
+    public void firstResources() {
+        System.out.println("dzqhidqz");
+
+    }
+
+    public void secondResources() {
+        System.out.println("dzquodzq");
     }
 }
